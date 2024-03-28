@@ -6,6 +6,8 @@
 \alias{visOmopResults-package}
 \title{visOmopResults: Graphs and Tables for OMOP Results}
 \description{
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
+
 Provides methods to transform omop_result objects into formatted tables and figures, facilitating the visualization of study results working with the Observational Medical Outcomes Partnership (OMOP) Common Data Model.
 }
 \seealso{
@@ -17,7 +19,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Núria Mercadé-Besora \email{nuria.mercadebesora@ndorms.ox.ac.uk} (\href{https://orcid.org/0009-0006-7948-3747}{ORCID})
+\strong{Maintainer}: N<U+00FA>ria Mercad<U+00E9>-Besora \email{nuria.mercadebesora@ndorms.ox.ac.uk} (\href{https://orcid.org/0009-0006-7948-3747}{ORCID})
 
 Authors:
 \itemize{
